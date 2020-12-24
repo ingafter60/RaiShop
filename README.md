@@ -113,6 +113,12 @@ https://github.com/ingafter60/RaiShop
         modified:   frontend/.eslintcache
         modified:   frontend/src/components/Product.js
 
+### 02.3.4 (Part 4) HomeScreen Product Listing
+
+        modified:   README.md
+        modified:   frontend/.eslintcache
+        modified:   frontend/src/components/Product.js
+
 02.3.1 Added logo
 
 02.4. Rating Component
