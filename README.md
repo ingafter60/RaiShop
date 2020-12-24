@@ -44,7 +44,20 @@ https://github.com/ingafter60/RaiShop
         new file:   frontend/src/reportWebVitals.js
         new file:   frontend/src/setupTests.js
         new file:   frontend/yarn.lock
-        
+
+### 02.1.3 Modified react codes and changed favicon.ico
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   frontend/.eslintcache
+        deleted:    frontend/README.md
+        modified:   frontend/public/favicon.ico
+        modified:   frontend/public/index.html
+        deleted:    frontend/src/App.css
+        modified:   frontend/src/App.js
+        deleted:    frontend/src/App.test.js
+        deleted:    frontend/src/logo.svg
+        deleted:    frontend/src/setupTests.js
 02.2. React-Bootstrap Setup, FAS, Header & Footer Components
 
 02.3. HomeScreen Product Listing
