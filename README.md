@@ -81,7 +81,24 @@ https://github.com/ingafter60/RaiShop
         modified:   frontend/src/index.css
         modified:   frontend/src/index.js
 
-02.3. HomeScreen Product Listing
+### 02.3.1 (Part 1) HomeScreen Product Listing
+
+        modified:   README.md
+        modified:   frontend/.eslintcache
+        new file:   frontend/products.js
+        new file:   frontend/public/images/airpods.jpg
+        new file:   frontend/public/images/alexa.jpg
+        new file:   frontend/public/images/camera.jpg
+        new file:   frontend/public/images/mouse.jpg
+        new file:   frontend/public/images/phone.jpg
+        new file:   frontend/public/images/playstation.jpg
+        new file:   frontend/public/logo.jpg
+        deleted:    frontend/public/logo192.png
+        deleted:    frontend/public/logo512.png
+        modified:   frontend/src/App.js
+        modified:   frontend/src/components/Header.js
+        new file:   frontend/src/products.js
+        new file:   frontend/src/screens/HomeScreen.js
 
 02.3.1 Added logo
 

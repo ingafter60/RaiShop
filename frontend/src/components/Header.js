@@ -6,7 +6,9 @@ const Header = () => {
     <header>
       <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
         <Container>
-          <Navbar.Brand href="#home">RaiShop</Navbar.Brand>
+          <Navbar.Brand href="/">
+            <img style={{marginBottom:0}} src="/logo.jpg" height="40" width="30" alt="text here" />
+            <span style={{fontSize:28, paddingLeft:5, marginTop:50,}}>RaiShop</span></Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto">
