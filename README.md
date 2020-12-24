@@ -68,7 +68,18 @@ https://github.com/ingafter60/RaiShop
         new file:   frontend/src/components/Footer.js
         new file:   frontend/src/components/Header.js
 
-02.2. React-Bootstrap Setup, FAS, Header & Footer Components
+### 02.2.2 React-Bootstrap Setup, FAS, Header & Footer Components
+
+        modified:   frontend/.eslintcache
+        new file:   frontend/package-lock.json
+        modified:   frontend/package.json
+        modified:   frontend/public/index.html
+        modified:   frontend/src/App.js
+        new file:   frontend/src/bootstrap.min.css
+        modified:   frontend/src/components/Footer.js
+        modified:   frontend/src/components/Header.js
+        modified:   frontend/src/index.css
+        modified:   frontend/src/index.js
 
 02.3. HomeScreen Product Listing
 
