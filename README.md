@@ -1,4 +1,5 @@
 # RaiShop
+
 Membuat Aplikasi Ecommerce dengan Menggunakan MERN
 https://github.com/ingafter60/RaiShop
 
@@ -6,15 +7,15 @@ https://github.com/ingafter60/RaiShop
 
 ### 01.1. Welcome To The Course
 
-		PASS
+    	PASS
 
 ### 01.2. ProShop Project Demo
 
-		PASS
+    	PASS
 
 ### 01.3. Resources & Environment
 
-		PASS
+    	PASS
 
 ## 02. Starting the Front End
 
@@ -58,6 +59,15 @@ https://github.com/ingafter60/RaiShop
         deleted:    frontend/src/App.test.js
         deleted:    frontend/src/logo.svg
         deleted:    frontend/src/setupTests.js
+
+### 02.2.1 Create Header and Footer compoments and load them
+
+        modified:   README.md
+        modified:   frontend/.eslintcache
+        modified:   frontend/src/App.js
+        new file:   frontend/src/components/Footer.js
+        new file:   frontend/src/components/Header.js
+
 02.2. React-Bootstrap Setup, FAS, Header & Footer Components
 
 02.3. HomeScreen Product Listing
