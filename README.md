@@ -22,6 +22,29 @@ https://github.com/ingafter60/RaiShop
 
         modified:   README.md
 
+### 02.1.2 Inital setup React for frontend
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   frontend/.gitignore
+        new file:   frontend/README.md
+        new file:   frontend/package.json
+        new file:   frontend/public/favicon.ico
+        new file:   frontend/public/index.html
+        new file:   frontend/public/logo192.png
+        new file:   frontend/public/logo512.png
+        new file:   frontend/public/manifest.json
+        new file:   frontend/public/robots.txt
+        new file:   frontend/src/App.css
+        new file:   frontend/src/App.js
+        new file:   frontend/src/App.test.js
+        new file:   frontend/src/index.css
+        new file:   frontend/src/index.js
+        new file:   frontend/src/logo.svg
+        new file:   frontend/src/reportWebVitals.js
+        new file:   frontend/src/setupTests.js
+        new file:   frontend/yarn.lock
+        
 02.2. React-Bootstrap Setup, FAS, Header & Footer Components
 
 02.3. HomeScreen Product Listing
