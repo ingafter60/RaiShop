@@ -100,12 +100,18 @@ https://github.com/ingafter60/RaiShop
         new file:   frontend/src/products.js
         new file:   frontend/src/screens/HomeScreen.js
 
-### 02.3.1 (Part 2) HomeScreen Product Listing
+### 02.3.2 (Part 2) HomeScreen Product Listing
 
         modified:   README.md
         modified:   frontend/.eslintcache
         new file:   frontend/src/components/Product.js
         modified:   frontend/src/screens/HomeScreen.js
+
+### 02.3.3 (Part 3) HomeScreen Product Listing
+
+        modified:   README.md
+        modified:   frontend/.eslintcache
+        modified:   frontend/src/components/Product.js
 
 02.3.1 Added logo
 
