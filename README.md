@@ -119,6 +119,20 @@ https://github.com/ingafter60/RaiShop
         modified:   frontend/.eslintcache
         modified:   frontend/src/components/Product.js
 
+### 02.3.5 (Part 5) HomeScreen Product Listing
+
+        >> install bootstrap
+        >> changed favicon
+        >> modified footer
+        >> modified header
+        modified:   frontend/.eslintcache
+        modified:   frontend/package-lock.json
+        modified:   frontend/package.json
+        modified:   frontend/public/favicon.ico
+        modified:   frontend/src/components/Footer.js
+        modified:   frontend/src/components/Header.js
+        modified:   frontend/src/index.js
+
 02.3.1 Added logo
 
 02.4. Rating Component
